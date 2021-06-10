@@ -12,3 +12,4 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Ansible](https://www.ansible.com/) - IaaC framework, supports Azure, AWS and GCP
 - [Crossplane](https://crossplane.io/) - Provision and management of services with a common Kubernetes syntax
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless cloud security, governance and management tool, supports AWS, Azure and GCP
+- [CrossFlux](https://github.com/hasheddan/crossflux) - GitOps using Crossplane + Flux + Kubernetes
