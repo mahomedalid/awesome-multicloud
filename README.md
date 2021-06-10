@@ -6,3 +6,8 @@ An awesome & curated list of applications, tools, resources and cool stuff to ma
 
 The goal is to build a categorized community-driven collection of very well-known resources. See [the awesome manifiesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) and [the contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
 
+## Contents
+
+- [Terraform](https://www.terraform.io/) - IaaC framework, supports Azure, AWS and GCP
+- [Ansible](https://www.ansible.com/) - IaaC framework, supports Azure, AWS and GCP
+- [Crossplane](https://crossplane.io/) - Provision and management of services with a common Kubernetes syntax
