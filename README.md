@@ -17,3 +17,4 @@ The goal is to build a categorized community-driven collection of very well-know
 - [OpenStack](https://www.openstack.org/) - Stack that provides common components for different clouds
 - [Serverless](https://github.com/serverless/multicloud) - Cloud agnostic serverless NodeJS handlers implementation
 - [Karmada](https://github.com/karmada-io/karmada) - Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+- [OpenPitrix](https://github.com/openpitrix/openpitrix) - Web-based open-source system to package, deploy and manage different types of applications into multiple cloud environments
