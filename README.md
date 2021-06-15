@@ -13,3 +13,4 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Crossplane](https://crossplane.io/) - Provision and management of services with a common Kubernetes syntax
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless cloud security, governance and management tool, supports AWS, Azure and GCP
 - [CrossFlux](https://github.com/hasheddan/crossflux) - GitOps using Crossplane + Flux + Kubernetes
+- [Microsoft Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/scenario-overview) Microsoft Azure approach for hybrid and multi-cloud scenarios, with Azure as primary cloud and Azure Arc as central control panel
